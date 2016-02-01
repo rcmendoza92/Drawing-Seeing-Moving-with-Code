@@ -1,0 +1,10 @@
+illucia is a patchbay USB controller/console developed by Chris Novello with Processing and Arduino to be 100% open source 
+(in terms of hardware and software--only about 20 units were produced, but anyone is free to reproduce the machine--schematics and 
+code are up on GitHub). Using patch cables and jacks (as well as replaceable knobs, buttons, switches, joysticks, etc.), 
+illucia allows users to interconnect various kinds of software (videogames, synthesizers, word processors etc.) in novel ways by 
+in effect "playing" an OSC network. The machine comes with a suite of interconnectable programs: PCO is modeled on Breakout, 
+Life Sequencer on Tetris; Stand Stijl and Paper Cup are artistic text editors; Pointl and War Machine take after paint & image programs. 
+Letting these programs speak to each other allows users to, as Novello says, "make drum machines play word processors, remix music 
+using paint programs" etc. live and in real-time--illucia's Arduino (and Processing) base and ability to be used with other controllers 
+(Novello demonstrates playing/hacking/remixing Super Mario Bros. with a Soundplane) suggests a new and exciting mode of performing 
+gameplay as if the player were an electronic musician.
